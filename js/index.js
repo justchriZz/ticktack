@@ -54,7 +54,7 @@ function draw() {
 
     textSize(radius / 10);
     textAlign(CENTER, CENTER);
-    textFont (typeface)
+    textFont(typeface)
 
     fill(0, 0, 100);
     noStroke();
