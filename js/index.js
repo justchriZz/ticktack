@@ -2,7 +2,7 @@ var radius
 var typeface
 
 function preload(){
-    typeface = loadFont ("../assets/SF-Pro-Display-Ultralight.otf")
+    typeface = loadFont ("../SF-Pro-Display-Ultralight.otf")
 }
 
 function setup() {
